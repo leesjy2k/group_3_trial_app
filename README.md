@@ -1,1 +1,1 @@
-# grpup_3_trial_app
+# group_3_trial_app
